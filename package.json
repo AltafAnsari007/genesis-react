@@ -1,5 +1,5 @@
 {
-  "name": "atomos_genesis_react",
+  "name": "@atomos_tech/atomos_genesis_react",
   "private": false,
   "version": "0.0.1-alpha",
   "type": "module",
